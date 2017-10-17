@@ -1,5 +1,5 @@
 {
-    "name": "GruulDev/laravel-facebook-sdk",
+    "name": "gruuldev/laravel-facebook-sdk",
     "description": "Fully unit tested Facebook SDK v4 integration for Laravel",
     "keywords": ["facebook", "laravel", "sdk", "facebook sdk v4", "facebook query builder"],
     "homepage": "https://github.com/GruulDev/LaravelFacebookSdk",
