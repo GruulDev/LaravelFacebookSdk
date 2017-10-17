@@ -1,8 +1,8 @@
 {
-    "name": "sammyk/laravel-facebook-sdk",
+    "name": "GruulDev/laravel-facebook-sdk",
     "description": "Fully unit tested Facebook SDK v4 integration for Laravel",
     "keywords": ["facebook", "laravel", "sdk", "facebook sdk v4", "facebook query builder"],
-    "homepage": "https://github.com/SammyK/LaravelFacebookSdk",
+    "homepage": "https://github.com/GruulDev/LaravelFacebookSdk",
     "license": "MIT",
     "authors": [
         {
@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SammyK\\LaravelFacebookSdk\\": ["src/LaravelFacebookSdk", "tests"]
+            "GruulDev\\LaravelFacebookSdk\\": ["src/LaravelFacebookSdk", "tests"]
         }
     }
 }
